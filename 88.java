@@ -1,4 +1,2 @@
-dfadsfdsafda
-This file i'm going to use merge conflict scenario
-this is sample file only
-belongs to feature branch[D[D[D[D[D[D[D9 [C[C[C[C[C
+This the latest file content of my file88.java
+as part of conflict test
